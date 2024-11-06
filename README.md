@@ -3,7 +3,7 @@
 - 🔭 I’m currently studying Software Engineering at École de Technologie Supérieure
 - 🌱 I’m currently learning how to use ROS 
 - 📫 You can reach me on mehdioukid001@gmail.com
-- ⚡ Fun fact: I train martial arts 5 to 6 times a week
+- ⚡ Fun fact: I train martial arts 5 to 6 times a week, it's a great way to stay disciplined and fit!
 
 ## 🔧 Technologies & Tools
 
