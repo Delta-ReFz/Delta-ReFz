@@ -7,7 +7,7 @@
 ## 🔧 Technologies & Tools
 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript Badge](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.svg)
+  ![JavaScript](https://tse4.mm.bing.net/th?id=OIP.uxyS0knderVEEgb1pY50IwHaKl&pid=Api&P=0&h=180)
   ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
