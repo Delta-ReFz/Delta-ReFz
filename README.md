@@ -19,7 +19,7 @@
 
 
 #### Github Stats
-![Delta-ReFz's github stats](https://github-readme-stats.vercel.app/api?username=delta-refz&count_private=true&show_icons=true&theme=tokyonight)
+![Delta-ReFz's github stats](https://github-readme-stats.vercel.app/api?username=delta-refz&count_private=true&_icons=true&theme=tokyonight)
 
 
 
