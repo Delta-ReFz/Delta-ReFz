@@ -31,8 +31,8 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Delta-ReFz&hide=issues&show_icons=true&theme=github_dark_dimmed)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Delta-ReFz&layout=compact&theme=github_dark_dimmed)
+![Delta-ReFz's github stats](https://github-readme-stats.vercel.app/api?username=delta-refz&coun_private=true&_icons=true&theme=tokyonight)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=delta-refz&coun_private=true&layout=compact&theme=github_dark_dimmed)
 
 ![Ego boost](https://komarev.com/ghpvc/?username=Delta-ReFz&color=red)
 
