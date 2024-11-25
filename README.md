@@ -7,17 +7,34 @@
 
 ## 🔧 Technologies & Tools
 
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<a><img height="50" title="HTML" alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></a>
+<a><img height="50" title="CSS" alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></a>
+<a><img height="50" title="JavaScript" alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>
+<a><img height="50" title="TypeScript" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></a>
+<a><img height="50" title="Python" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></a>
+<a><img height="50" title="C" alt="C" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></a>
+<a><img height="50" title="C++" alt="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></a>
+<a><img height="50" title="C#" alt="C#" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></a>
+<a><img height="50" title="Java" alt="Java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></a>
+<a><img height="50" title="PHP" alt="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"></a>
+<a><img height="50" title="VueJS" alt="vue.js" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"></a>
+<a><img height="50" title="React" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></a>
+<a><img height="50" title="NextJS" alt="nextjs" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"></a>
+<a><img height="50" title="ViteJS" alt="vitejs" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"></a>
+<a><img height="50" title="GitHub" alt="GitHub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></a>
+<a><img height="50" title="MySQL" alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></a>
+<a><img height="50" title="AzureSQLDB" alt="AzureSQLDB" src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg"></a>
+<a><img height="50" title="Docker" alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"></a>
+
+
+## GitHub Stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Delta-ReFz&hide=issues&show_icons=true&theme=github_dark_dimmed)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Delta-ReFz&layout=compact&theme=github_dark_dimmed)
+
+![Ego boost](https://komarev.com/ghpvc/?username=Delta-ReFz&color=red)
 
 
 
