@@ -18,9 +18,9 @@
 <a><img height="50" title="React" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></a>
 <a><img height="50" title="NextJS" alt="nextjs" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"></a>
 <a><img height="50" title="ViteJS" alt="vitejs" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg"></a>
-<a><img height="50" title="GitHub" alt="GitHub" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></a>
 <a><img height="50" title="MySQL" alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></a>
-<a><img height="50" title="AzureSQLDB" alt="AzureSQLDB" src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg"></a>
+<a><img height="50" title="AzureSQLDB" src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg"></a>
+<a><img height="50" title="Docker" alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"></a>
 
 
 
