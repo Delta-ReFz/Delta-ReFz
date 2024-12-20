@@ -21,6 +21,8 @@
 <a><img height="50" title="MySQL" alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></a>
 <a><img height="50" title="AzureSQLDB" src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg"></a>
 <a><img height="50" title="Docker" alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"></a>
+<a><img height="50" title="Express" alt="Express" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></a>
+<a><img height="50" title="NodeJS" alt="Docker" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></a>
 
 
 
