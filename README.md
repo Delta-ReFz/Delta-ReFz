@@ -6,6 +6,8 @@
 - ⚡ Fun fact: I train martial arts 4 to 5 times a week, it's a great way to stay disciplined and fit!
 
 ## 🔧 Technologies & Tools
+<a><img height="50" title="Power-BI" alt="powerbi" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"></a>
+<a><img height="50" title="Excel" alt="excel" src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg"></a>
 <a><img height="50" title="MongoDB" alt="mongodb" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></a>
 <a><img height="50" title="JavaScript" alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>
 <a><img height="50" title="TypeScript" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></a>
